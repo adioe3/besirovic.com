@@ -6,7 +6,7 @@ date: 2020-02-08 05:23:02 +0100
 
 Brickphone weeks are periods where I use a so-called dumb phone exclusively.
 
-Time spent on a smartphone is usually unproductive and unrewarding, and there have been very few occasions where, to quote Marie Kondo, they sparked joy.
+Time spent on a smartphone is usually unproductive and unrewarding, and there have been very few occasions where, to quote Marie Kondo, it sparked joy.
 Also, most of these occassions were something a simpler device could handle.
 
 Modern smartphones' apps have made life more convenient at the price of more surveillance and less privacy.
