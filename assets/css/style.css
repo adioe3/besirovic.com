@@ -14,8 +14,8 @@ footer { font-size: 75%; color: gray; border-top: 1px solid #ddd; padding-top: .
 
 @media (prefers-color-scheme: dark) {
 body { background: black; color: gray; }
-a { color: orangered; }
-a:visited { color: darkred; }
+a { color: cornflowerblue; }
+a:visited { color: royalblue; }
 header,footer { border-color: #333; }
 }
 
