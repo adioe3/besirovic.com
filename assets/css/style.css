@@ -1,4 +1,4 @@
-body { max-width: 800px; margin: 0 auto; padding: 1rem; }
+body { max-width: 800px; padding: 1rem; }
 a:hover { text-decoration: none; }
 header { border-bottom: 1px solid #ddd; padding-bottom: 1rem; }
 header h1 { font-weight: normal; margin: 0; }
