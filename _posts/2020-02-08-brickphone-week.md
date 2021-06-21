@@ -2,6 +2,7 @@
 layout: post
 title: "Brickphone week"
 date: 2020-02-08 05:23:02 +0100
+mdate: 2021-06-21
 ---
 
 Brickphone weeks are periods where I use a so-called dumb phone exclusively.
