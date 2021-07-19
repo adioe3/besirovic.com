@@ -34,7 +34,7 @@ Goal: 10 books.
 - Animal Farm by George Orwell
 - Catch-22 by Joseph Heller
 
-2012
+## 2012
 
 - The Story of B by Daniel Quinn
 - Ishmael by Daniel Quinn
@@ -44,13 +44,13 @@ Goal: 10 books.
 - Layer Cake by J.J. Connolly
 - Brave New World by Aldous Huxley
 
-2011
+## 2011
 
 - The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
 - Do Androids Dream of Electric Sheep? by Philip K. Dick
 - A Farewell to Arms by Ernest Hemingway
 
-2010
+## 2010
 
 - 1984 by George Orwell
 - For Whom the Bell Tolls by Ernest Hemingway
