@@ -26,7 +26,7 @@ a:visited { color: darkred; }
 footer { color: #444; }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
 body { margin: 0; padding: 1rem; }
 table { display: block; overflow-x: scroll; white-space: nowrap; }
 pre { overflow-x: scroll; }
