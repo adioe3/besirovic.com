@@ -20,7 +20,6 @@ footer { font-size: .7rem; color: gray; margin-top: 1rem; padding-top: 1rem; bor
 @media (prefers-color-scheme: dark) {
 body { background: black; color: gray; }
 nav a, header, footer, th, td { border-color: #222; }
-article p, article li { max-width: auto; }
 th, tr:nth-child(even) td { background: #111; }
 a { color: orangered; }
 a:visited { color: darkred; }
@@ -31,6 +30,7 @@ footer { color: #444; }
 body { margin: 0; padding: 1rem; }
 table { display: block; overflow-x: scroll; white-space: nowrap; }
 pre { overflow-x: scroll; }
+article p, article li { max-width: auto; }
 }
 
 .highlight { font-size: .85rem; overflow: auto; }
