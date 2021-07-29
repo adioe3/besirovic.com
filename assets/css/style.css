@@ -20,6 +20,7 @@ footer { font-size: .7rem; color: gray; margin-top: 1rem; padding-top: 1rem; bor
 @media (prefers-color-scheme: dark) {
 body { background: black; color: gray; }
 nav a, header, footer, th, td { border-color: #222; }
+article p, article li { max-width: auto; }
 th, tr:nth-child(even) td { background: #111; }
 a { color: orangered; }
 a:visited { color: darkred; }
