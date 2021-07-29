@@ -9,17 +9,17 @@ Goal: 10 books.
 
 - Digital Minimalism by Cal Newport
 - The Calculating Stars by Mary Robinette Kowal
-- Slaughterhouse Five by Kurt Vonnegut
+- [Slaughterhouse Five](/book/slaughterhouse-five) by Kurt Vonnegut
 
 ## 2020
 
 - No One Is Too Small to Make a Difference by Greta Thunberg
-- What I Talk About When I Talk About Running by Haruki Murakami
+- [What I Talk About When I Talk About Running](/book/haruki-running) by Haruki Murakami
 - A Tale for the Time Being by Ruth Ozeki
 - Desire by Haruki Murakami
 - Born a Crime by Trevor Noah
 - Breath: The New Science of a Lost Art by James Nestor
-- This Is Water: Some Thoughts, Delivered on a Significant Occasion, About Living a Compassionate Life by David Foster Wallace
+- [This Is Water: Some Thoughts, Delivered on a Significant Occasion, About Living a Compassionate Life](/book/this-is-water) by David Foster Wallace
 
 ## 2018
 
