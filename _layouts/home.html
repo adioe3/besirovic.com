@@ -8,8 +8,8 @@ layout: default
     {% for post in site.posts limit:1 %}
     <article>
         <h1>{{ post.title | escape }}</h1>
-        <aside>{{ post.date | date: date_format | downcase }}</aside>
         {{ post.content }}
+        <aside>Posted on {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">(permalink)</a></aside>
     <article>
     {% endfor %}
 
