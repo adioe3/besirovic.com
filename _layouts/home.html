@@ -10,20 +10,8 @@ layout: default
         <h1>{{ post.title | escape }}</h1>
         {{ post.content }}
         <aside>Posted on {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">(permalink)</a></aside>
-    <article>
+    </article>
     {% endfor %}
-
-    {% if site.posts.size > 1 %}
-        <h1>archive</h1>
-        <ul class="postlist">
-    {% for post in site.posts offset:1 %}
-    <li>
-        <code>{{ post.date | date: date_format }}</code> &mdash;
-        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </li>
-    {% endfor %}
-        </ul>
-    {% endif %}
 {%- else -%}
 <p>No posts.</p>
 {%- endif -%}

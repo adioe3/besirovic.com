@@ -4,3 +4,5 @@ url: "https://besirovic.com/"
 theme: minima
 plugins:
   - jekyll-feed
+
+permalink: /:title:output_ext
