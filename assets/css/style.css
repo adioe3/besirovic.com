@@ -29,7 +29,7 @@ footer { font-style: italic; font-size: .8rem; opacity: .5; }
 }
 
 @media (prefers-color-scheme: dark) {
-    body { background: #002b36; color: #839496; }
+    body { background: #111; color: #839496; }
     nav a, header, footer, th, td { border-color: #222; }
     th, tr:nth-child(even) td { background: #111; }
     tr:hover td { background: #222; }
