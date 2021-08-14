@@ -1,8 +1,7 @@
 body { font-family: Helvetica, sans-serif; line-height: 1.4; padding: 0; max-width: 665px; margin: 1.5rem auto; background: #fffff8; }
-header { margin-bottom: 3rem; }
+header { margin-bottom: 3rem; display: flex; flex-wrap: wrap; column-gap: .5rem; }
 article { margin-bottom: 1rem; }
-header strong, header a { font-size: 1rem; margin-right: .5rem; border-right: 1px solid #ddd; padding-right: .5rem; }
-header a:last-child { margin-right: 0; border-right: none; }
+header strong, header a { font-size: 1rem; }
 a { color: #268bd2; }
 a:visited { color: #6c71c4; }
 a:hover { text-decoration: none; }
