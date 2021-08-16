@@ -8,11 +8,11 @@ At work we ran into an interesting problem: given a tree and a list of leaf node
 
 For example, given this tree (blue lines indicates ordering of same-level nodes):
 
-![Basic graph](/assets/fast-tree/basic.png)
+![Basic graph](/assets/fast-tree/basic.svg)
 
 and the list of IDs [7, 8] we want to first get this subtree:
 
-![First subtree](/assets/fast-tree/first-subtree.png)
+![First subtree](/assets/fast-tree/first-subtree.svg)
 
 and generate this HTML out of it in a single pass:
 

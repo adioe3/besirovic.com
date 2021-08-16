@@ -1,4 +1,7 @@
 digraph G {
+    graph[truecolor=true bgcolor="#ffffff00"];
+    node[style=filled bgcolor="#ffffff"];
+    edge[color=gray];
     1 -> 2;
     2 -> 4;
     4 -> 7;
