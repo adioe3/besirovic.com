@@ -4,5 +4,6 @@ url: "https://besirovic.com/"
 theme: minima
 plugins:
   - jekyll-feed
-
+kramdown:
+  input: GFM
 permalink: /:title:output_ext
