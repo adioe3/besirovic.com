@@ -9,6 +9,7 @@ Lung regen: <progress value="15" max="100"></progress> 15%
 
 | Date        | Distance | Lap | Time    |
 | ----------: | ------: | ---: | ------: |
+|  6 Sep 2021 | 4.79 km | 9'10 |   43:56 |
 | 12 Jul 2021 | 2.90 km | 7'02 |   20:25 |
 |  5 Jul 2021 | 2.48 km | 7'31 |   18:41 |
 |  9 May 2021 | 2.46 km | 7'55 |   19:29 |
