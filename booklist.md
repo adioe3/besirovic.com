@@ -10,6 +10,7 @@ Goal: 10 books.
 - Digital Minimalism by Cal Newport
 - The Calculating Stars by Mary Robinette Kowal
 - [Slaughterhouse Five](/book/slaughterhouse-five) by Kurt Vonnegut
+- [Eleanor Oliphant is Completely Fine](/book/oliphant) by Gail Honeyman
 
 ## 2020
 
