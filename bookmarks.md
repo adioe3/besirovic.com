@@ -13,3 +13,4 @@ Some things are too good to be read only once.
 Programming
 
 - [Crash into Python](https://stephensugden.com/crash_into_python/)
+- [Backpressure](https://www.tedinski.com/2019/03/05/backpressure.html)
