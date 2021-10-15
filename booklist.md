@@ -11,6 +11,7 @@ Goal: 10 books.
 - The Calculating Stars by Mary Robinette Kowal
 - [Slaughterhouse Five](/book/slaughterhouse-five) by Kurt Vonnegut
 - [Eleanor Oliphant is Completely Fine](/book/oliphant) by Gail Honeyman
+- Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes by Nathan H. Lents
 
 ## 2020
 
