@@ -1,3 +1,6 @@
-body { max-width: 400px; margin: 0 auto; }
-img { max-width: 100%; }
-hr { height: 0; border: 1px solid #ddd; }
+body { padding: 1rem; font-family: Helvetica, Inter, sans-serif; }
+@media (prefers-color-scheme: dark) {
+  body { background: #000; color: gray; }
+  a { color: #1597BB; }
+  a:visited { color: #064663; }
+}
