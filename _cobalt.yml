@@ -1,0 +1,9 @@
+site:
+  title: Journal
+  description: Personal journal of software engineer Armin Beširović
+  base_url: https://besirovic.com
+posts:
+  rss: rss.xml
+syntax_highlight:
+  theme: "base16-mocha.dark"
+  enabled: true
